@@ -1,0 +1,21 @@
+body {
+
+    background-image: url("3.jpg");
+    background-color: #6e696a;
+    background-size: cover; 
+
+  }
+
+  .container{
+      margin: 20;
+      border-style: outset;
+      border-color: red green blue yellow;
+      border-width: 5px;
+      text-align: center;
+      font-size: 40px;
+
+  }
+
+  div:hover {
+    background-color: rgb(133, 133, 228);
+  }
